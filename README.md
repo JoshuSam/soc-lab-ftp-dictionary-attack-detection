@@ -116,9 +116,15 @@ Monitor successful and failed Windows logon events using Windows Event Viewer.
 - Authentication Monitoring
 - Security Event Investigation
 
-### Screenshot
+### Screenshots
 
-> *(Insert screenshot of the Windows Event Viewer showing Event IDs 4624 and 4625 here.)*
+#### Successful Logon (Event ID 4624)
+
+![Successful Logon 4624](images/Successful%20Logon%204624%20Custom%20Views.png)
+
+#### Failed Logon (Event ID 4625)
+
+![Failed Logon 4625](images/Failed%20Logon%204625%20Custom%20Views%20.png)
 
 ## 📂 Task 2 – FTP Server Configuration
 
@@ -169,7 +175,7 @@ Simulate an FTP dictionary attack using **Hydra** to evaluate the effectiveness 
 
 ### Screenshot
 
-> *(Insert screenshot of the Hydra command and successful password discovery here.)*
+![Hydra Dictionary Attack](images/Dictionary%20Attack%20on%20ftp%20user.png)
 
 ## 📊 Task 4 – FTP Log Analysis
 
@@ -195,7 +201,7 @@ Analyze FTP server logs to identify successful and failed authentication attempt
 
 ### Screenshot
 
-> *(Insert screenshot of the FTP authentication logs showing failed and successful login attempts here.)*
+![FTP Log Analysis](images/Checking%20FTP%20Failed%20Logins.png)
 
 ## 📜 Task 5 – Bash Alert Scripts
 
@@ -219,9 +225,15 @@ Develop Bash scripts to automate the detection of FTP authentication events and 
 - Alert Generation
 - Linux Administration
 
-### Screenshot
+### Screenshots
 
-> *(Insert screenshot of the Bash alert scripts and their output here.)*
+#### Success Alert Script
+
+![Success Alert](images/Sucess%20Alert%20Script%20Created.png)
+
+#### Threshold Alert Script
+
+![Threshold Alert](images/Threshold_Alert%20Created.png)
 
 ## 🛡️ Task 6 – Fail2Ban Configuration
 
@@ -246,9 +258,15 @@ Configure **Fail2Ban** to automatically detect and block repeated unauthorized F
 - Automated Threat Mitigation
 - Defensive Security
 
-### Screenshot
+### Screenshots
 
-> *(Insert screenshot of the Fail2Ban status and banned IP addresses here.)*
+#### Fail2Ban Service
+
+![Fail2Ban Service](images/Fail2ban%20Created%20and%20Active.png)
+
+#### vsftpd Jail Status
+
+![Fail2Ban Status](images/Fail2ban%20client%20status%20and%20client%20status%20vsftpd.png)
 
 ## 🎓 Skills Demonstrated
 

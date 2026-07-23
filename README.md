@@ -65,6 +65,8 @@ The primary objectives of this lab were to:
 - **Defensive Tool:** Fail2Ban
 - **Shell Scripting:** Bash
 
+<a id="lab-architecture"></a>
+
 ## 🏗️ Lab Architecture
 
 ```text
@@ -311,9 +313,11 @@ Completing this lab strengthened my understanding of authentication security, at
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
+<a id="author"></a>
+
 ## 👨‍💻 Author
 
-**Joshua Samuel**
+**Joshua Abraham Samuel**
 
 Aspiring SOC Analyst | Blue Team | Cybersecurity Enthusiast
 

@@ -14,7 +14,7 @@ This project was completed as part of practical SOC analyst training to strength
 - [Objectives](#-objectives)
 - [Technologies Used](#️-technologies-used)
 - [Lab Environment](#-lab-environment)
-- [Lab Architecture](#-lab-architecture)
+- [Lab Architecture](#lab-architecture)
 - [Task 1 – Windows Authentication Monitoring](#-task-1--windows-authentication-monitoring)
 - [Task 2 – FTP Server Configuration](#-task-2--ftp-server-configuration)
 - [Task 3 – FTP Dictionary Attack Simulation using Hydra](#-task-3--ftp-dictionary-attack-simulation-using-hydra)
@@ -25,7 +25,7 @@ This project was completed as part of practical SOC analyst training to strength
 - [Key Takeaways](#-key-takeaways)
 - [References](#-references)
 - [License](#-license)
-- [Author](#-author)
+- [Author](#author)
 - [Future Improvements](#-future-improvements)
 - [Project Outcome](#-project-outcome)
 

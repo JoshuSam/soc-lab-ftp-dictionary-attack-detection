@@ -149,9 +149,9 @@ Configure a secure FTP server using **vsftpd** to provide a controlled environme
 - User Account Management
 - Service Verification
 
-### Screenshot
+### vsftpd Service Status
 
-> *(Insert screenshot of the FTP server configuration and successful FTP login here.)*
+![vsftpd Service](images/vsftpd%20Service%20Status.png)
 
 ## 🎯 Task 3 – FTP Dictionary Attack Simulation using Hydra
 
